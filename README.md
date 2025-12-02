@@ -99,5 +99,12 @@ This project is ideal for **Data Analytics, Business Intelligence, and Financial
 - Understand loan purpose trends  
 - Provide insights for data-driven lending decisions  
 
+##  Author
+
+**# Shruthi R R**  
+ Data Analyst  
+ **Email:** shruthirr46@gmail.com  
+ **LinkedIn:** www.linkedin.com/in/shruthi-r-r-a119612a7
+
 
 
